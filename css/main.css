@@ -1,0 +1,23 @@
+body {
+	background-color: green;
+}
+nav {
+	background-color: orange;
+}
+nav li{
+	float:left;
+
+}
+
+footer {
+	background-color:;
+	color:#fff;
+	text-align: center;
+	clear: both;
+}
+.wrapper{
+	background-color: #fff
+	width:90%;
+	margin:0 auto;
+}
+.
